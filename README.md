@@ -34,13 +34,13 @@ Initialized empty Git repository in /tmp/a/todos/.git/
 Create your heroku app
 
 ```
-% heroku create --buildpack https://github.com/jordansissel/heroku-buildpack-meteor.git
+% heroku create --buildpack https://github.com/pqminh/heroku-buildpack-meteor
 ```
 
 Or if your Heroku app already exists
 
 ```
-% heroku buildpacks:set https://github.com/jordansissel/heroku-buildpack-meteor.git
+% heroku buildpacks:set https://github.com/pqminh/heroku-buildpack-meteor
 ```
 
 Configure your plugins & settings
