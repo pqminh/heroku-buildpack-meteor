@@ -1,9 +1,11 @@
+# Fork from https://github.com/jordansissel/heroku-buildpack-meteor.git
+# Node upgrade to v0.10.41
 # Heroku buildpack for meteor
 
 ## Usage
 
 ```
-% heroku create --buildpack https://github.com/jordansissel/heroku-buildpack-meteor.git
+% heroku create --buildpack
 ```
 
 ## Example
